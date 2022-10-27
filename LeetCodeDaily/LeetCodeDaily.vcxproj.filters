@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\523_ContinousSubarraySum.cpp">
+    <ClCompile Include="src\1480_RunningSumofArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
