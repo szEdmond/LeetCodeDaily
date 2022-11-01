@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\2136_EarliestPossibleDayOfBloom.cpp">
+    <ClCompile Include="src\766_ToeplitzMatrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
